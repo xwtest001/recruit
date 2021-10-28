@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="5e6e8a91-2453-4837-844f-173e81b8677c" name="ali">
+        <fileTransfer rootFolder="/root/recruit_project" accessType="SFTP" host="47.93.61.56" port="22" sshConfigId="6f5581d3-e66c-4d54-a4db-eeab85d451c3" sshConfig="root@47.93.61.56:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
